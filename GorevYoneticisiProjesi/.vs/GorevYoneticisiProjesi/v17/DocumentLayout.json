@@ -1,0 +1,307 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\controllers\\taskreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:controllers\\taskreportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\gorevyoneticisiprojesi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:gorevyoneticisiprojesi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\dto\\taskreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:dto\\taskreportdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\services\\taskreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:services\\taskreportservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\models\\taskreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:models\\taskreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:dto\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|c:\\users\\merye\\onedrive\\masa\u00FCst\u00FC\\gorevyoneticisiprojesi\\dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{57A5E287-F380-F848-2098-50FB2A117799}|GorevYoneticisiProjesi.csproj|solutionrelative:dto\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T18:29:48.966Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:28:24.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T18:24:56.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "GorevYoneticisiProjesi.http",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\GorevYoneticisiProjesi.http",
+              "RelativeDocumentMoniker": "GorevYoneticisiProjesi.http",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\GorevYoneticisiProjesi.http",
+              "RelativeToolTip": "GorevYoneticisiProjesi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-06-13T18:24:52.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TaskReportsController.cs",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Controllers\\TaskReportsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TaskReportsController.cs",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Controllers\\TaskReportsController.cs",
+              "RelativeToolTip": "Controllers\\TaskReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:16:12.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskReport.cs",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Models\\TaskReport.cs",
+              "RelativeDocumentMoniker": "Models\\TaskReport.cs",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Models\\TaskReport.cs",
+              "RelativeToolTip": "Models\\TaskReport.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:15:06.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TaskReportService.cs",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Services\\TaskReportService.cs",
+              "RelativeDocumentMoniker": "Services\\TaskReportService.cs",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Services\\TaskReportService.cs",
+              "RelativeToolTip": "Services\\TaskReportService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:12:37.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:06:07.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\IUserService.cs",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Services\\IUserService.cs",
+              "RelativeToolTip": "Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:05:57.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-13T18:03:00.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAADIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T18:01:42.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TaskReportDto.cs",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Dto\\TaskReportDto.cs",
+              "RelativeDocumentMoniker": "Dto\\TaskReportDto.cs",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Dto\\TaskReportDto.cs",
+              "RelativeToolTip": "Dto\\TaskReportDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:39:43.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Dto\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "Dto\\RegisterDto.cs",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Dto\\RegisterDto.cs",
+              "RelativeToolTip": "Dto\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:39:39.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Dto\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Dto\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Dto\\LoginDto.cs",
+              "RelativeToolTip": "Dto\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:39:37.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\merye\\OneDrive\\Masa\u00FCst\u00FC\\GorevYoneticisiProjesi\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-13T17:38:07.763Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
